@@ -8,6 +8,6 @@ Este projeto implementa o algoritmo do banqueiro para gerenciamento de alocaçã
 g++ -pthread -o banqueiro main.cpp
 ./banqueiro 10 5 7
 ```
-Nesse exemplo, ele cria 3 tipos de recursos, com 10 unidades do primeiro, 5 do segundo e 7 do terceiro.
+Nesse exemplo, ele declara o valor dos recursos sendo os seguintes: 10 unidades o primeiro, 5 o segundo e 7 o terceiro.
 
 
